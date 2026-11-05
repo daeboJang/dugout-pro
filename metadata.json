@@ -1,0 +1,6 @@
+{
+  "name": "Dugout Pro - 야구단 & 선수 로스터 관리",
+  "description": "아마추어 야구팀 창단 승인, 팀 마스터 선수 등록, 야구 표준 포지션 코드 기반 프리셋 로스터 구성 및 회원 관리 솔루션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
